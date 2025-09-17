@@ -1,0 +1,31 @@
+body{
+    background: rgb(17, 19, 20);
+    font-size: 20px;
+    color: azure;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(34, 235, 111);
+}
+
+.title{
+    color: rgb(113, 96, 242);
+    font-size: larger;
+
+}
+
+p{
+    margin: 45px;
+}
+
+li{
+    margin: 20px;
+    list-style: inside;
+}
+
+span{
+    color: rgb(251, 131, 131);
+}
